@@ -1,0 +1,13 @@
+# front-end stuff
+.sass-cache
+css/
+
+*.pyc
+
+build/
+newenv/
+app/static/stylesheets/*.css
+
+config.coffee
+
+.DS_Store
